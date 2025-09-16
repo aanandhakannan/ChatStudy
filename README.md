@@ -1,5 +1,6 @@
 # Ex. No:1b 			Study of Client Server Chat Applications
-#Name: AANANDHA KANNAN S
+Name: AANANDHA KANNAN S
+
 REG NO: 212224040003
 
 
